@@ -1,7 +1,7 @@
 
 
 def print_1():
-    pass
+    print('1') 
 
 def print_2():
     pass
